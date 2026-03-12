@@ -52,19 +52,19 @@ THIN:RET
 END
 
 ```
-OUTPUT
+## OUTPUT
 
-(Keil output screenshot can be inserted here)
+<img width="954" height="202" alt="image" src="https://github.com/user-attachments/assets/2fb80776-18af-4fb7-8b7c-278b0dc2c055" />
 
----
-MANUAL CALCULATIONS
 
----
+## MANUAL CALCULATIONS
 
-RESULT
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/2642dafb-ca3d-4cbb-b5c9-ab83a465bf80" />
+
+
+## RESULT
 
 Thus, the factorial of a number was calculated and executed successfully using 8051 Keil.
 
----
 
 
